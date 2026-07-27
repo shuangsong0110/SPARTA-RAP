@@ -80,7 +80,7 @@ The whole-genome functional annotation data and the precomputed annotation princ
 ## Citation
 If you use SPARTA, please cite:
 
-Shuang Song, Ruoyu Wang, Haoyu Yang, Max Elliott, Xihao Li, Jingnan Du, Randy Lee Buckner, Xihong Lin. *Augmented synthetic phenotype analysis enhances rare variant association discovery in biobank-scale whole genome sequencing studies.*
+Shuang Song, Ruoyu Wang, Haoyu Yang, Max Elliott, Xihao Li, Jingnan Du, Randy Lee Buckner, Xihong Lin. *Synthetic phenotype assisted rare variant association tests enhance genetic discovery in biobank-scale whole genome sequencing studies with partially observed phenotypes.*
 
 
 ## :busts_in_silhouette: Maintainer
